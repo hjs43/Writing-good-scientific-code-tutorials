@@ -35,3 +35,5 @@ if __name__ == "__main__":
     
     print('Bye bye rabbits')
     print_rabbit_range(1)
+
+    print('Do you hear gunshots?')
