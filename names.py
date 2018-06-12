@@ -1,3 +1,2 @@
-Lara
 Heidi
-Steve
+Lara
